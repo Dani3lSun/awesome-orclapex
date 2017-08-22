@@ -132,6 +132,7 @@ Made with Oracle APEX.
 - [Monty Latiolais Blog](http://montylatiolais.blogspot.com) - by Monty Latiolais
 - [Shakeeb on APEX](http://apex.shak.us) - by Shakeeb Rahman
 - [APEX-AT-WORK](http://www.apex-at-work.com) - by Tobias Arnhold
+- [Insum Oracle APEX Blog](https://www.insum.ca/blog) - by Insum Solutions
 
 
 ## Videos
