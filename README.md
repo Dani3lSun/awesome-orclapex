@@ -43,12 +43,12 @@ Made with Oracle APEX.
 
 - [apex.world Plugins](https://apex.world/ords/f?p=100:700:::::) - Open Source APEX plugin directory
 - [APEX-PLUGIN.COM](http://www.apex-plugin.com) - APEX plugin directory
-- [APEX Development Team Plug-Ins](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-plug-ins-182042.html)
+- [APEX Development Team Plug-Ins](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-plug-ins-182042.html) - Official Oracle APEX plugins
 
 
 ## Themes
 
-- [Universal Theme](https://apex.oracle.com/ut) - by Oracle APEX Dev Team
+- [Universal Theme](https://apex.oracle.com/ut) - by Oracle APEX Development Team
 - [Material APEX](http://materialapex.com) - by Vincent Morneau
 
 
@@ -67,17 +67,17 @@ Made with Oracle APEX.
 
 ## Documentation
 
-- [Documentation APEX 5.1](https://docs.oracle.com/database/apex-5.1/index.htm)
-- [Documentation APEX 5.0](https://docs.oracle.com/cd/E59726_01/index.htm)
-- [API Reference APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEAPI/toc.htm)
-- [API Reference APEX 5.0](https://docs.oracle.com/cd/E59726_01/doc.50/e39149/toc.htm)
-- [Installation Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/HTMIG/toc.htm)
-- [Administration Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEADM/toc.htm)
+- [Documentation APEX 5.1](https://docs.oracle.com/database/apex-5.1/index.htm) - Documentation Overview
+- [Documentation APEX 5.0](https://docs.oracle.com/cd/E59726_01/index.htm) - Documentation Overview
+- [API Reference APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEAPI/toc.htm) - PL/SQL & JavaScript API Documentation
+- [API Reference APEX 5.0](https://docs.oracle.com/cd/E59726_01/doc.50/e39149/toc.htm) - PL/SQL & JavaScript API Documentation
+- [Installation Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/HTMIG/toc.htm) - Installation Documentation
+- [Administration Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEADM/toc.htm) - Administration Documentation
 
 
 ## Articles
 
-- [Oracle Learning Library](http://apex.oracle.com/pls/apex/f?p=44785:2:0:FORCE_QUERY::2:P2_GROUP_ID,P2_PRODUCT_ID,P2_TAGS:1000,2039)
+- [Oracle Learning Library](http://apex.oracle.com/pls/apex/f?p=44785:2:0:FORCE_QUERY::2:P2_GROUP_ID,P2_PRODUCT_ID,P2_TAGS:1000,2039) - OLL pages for Oracle APEX
 
 
 ## Books
@@ -97,6 +97,8 @@ Made with Oracle APEX.
 
 - [`@orclapexblogs` on Twitter](https://twitter.com/orclapexblogs)
 - [ODTUG APEX Blogroll](http://www.odtug.com/apexblogroll) - by ODTUG
+- [Oracle Application Express Blog](https://blogs.oracle.com/apex/application-express) - by Oracle
+- [German APEX Community Blog](https://blogs.oracle.com/apexcommunity_deutsch) - by Oracle, Carsten Czarski
 - [A little bit of everything](http://rimblas.com/blog) - by Jorge Rimblas
 - [grassroots-oracle.com](http://www.grassroots-oracle.com) - by Scott Wesley
 - [HardLikeSoftware](http://hardlikesoftware.com/weblog) - by John Snyders
@@ -128,7 +130,6 @@ Made with Oracle APEX.
 - [Monty Latiolais Blog](http://montylatiolais.blogspot.com) - by Monty Latiolais
 - [Shakeeb on APEX](http://apex.shak.us) - by Shakeeb Rahman
 - [APEX-AT-WORK](http://www.apex-at-work.com) - by Tobias Arnhold
-- [German APEX Cummunity Blog](https://blogs.oracle.com/apexcommunity_deutsch) - by Oracle, Carsten Czarski
 
 
 ## Videos
@@ -158,8 +159,9 @@ Made with Oracle APEX.
 
 ## Tips
 
-- [Cheatsheat Keybord Shortcuts](https://www.cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/) - by Scott Spendolini
+- [Cheatsheet Keybord Shortcuts](https://www.cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/) - by Scott Spendolini
 - [Interactive Grid Cookbook](http://hardlikesoftware.com/weblog/2017/07/10/apex-interactive-grid-cookbook/) - by John Snyders
+- [Interactive Grid Cheatsheet](https://github.com/mgoricki/orclapex-ig-cheat-sheet) - by Marko Gorički
 
 Contribute some ;)
 
