@@ -173,4 +173,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## License
 
-MIT
+![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
