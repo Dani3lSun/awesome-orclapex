@@ -29,14 +29,14 @@ Made with Oracle APEX.
 
 ### Open Source
 
-- [APEX-SERT](https://github.com/OraOpenSource/apex-sert) - by OraOpenSource, Scott Spendolini
-- [OMonAPEX](https://github.com/OraOpenSource/OMonAPEX) - by OraOpenSource, IranApex
+- [APEX-SERT](https://github.com/OraOpenSource/apex-sert) - Security Evaluation and Recommendation Tool - by OraOpenSource, Scott Spendolini
+- [OMonAPEX](https://github.com/OraOpenSource/OMonAPEX) - Oracle Monitoring in Oracle APEX - by OraOpenSource, IranApex
 
 ### Closed Source
 
 - [Commercial Apps Listing](https://apex.oracle.com/pls/apex/f?p=411:5::::::)
-- [SkillBuilders Oracle Database Manager](http://www.skillbuilders.com/alato/alato.cfm) - by SkillBuilders
-- [FOEX Plugin Framework](https://www.tryfoexnow.com) - by FOEX
+- [SkillBuilders Oracle Database Manager](http://www.skillbuilders.com/alato/alato.cfm) - Oracle database administration tool - by SkillBuilders
+- [FOEX Plugin Framework](https://www.tryfoexnow.com) - low-code rapid application development (RAD) tool - by FOEX
 
 
 ## Plugins
@@ -48,22 +48,22 @@ Made with Oracle APEX.
 
 ## Themes
 
-- [Universal Theme](https://apex.oracle.com/ut) - by Oracle APEX Development Team
-- [Material APEX](http://materialapex.com) - by Vincent Morneau
+- [Universal Theme](https://apex.oracle.com/ut) - Official Theme shipped with APEX > 5.0 - by Oracle APEX Development Team
+- [Material APEX](http://materialapex.com) - Material Design Theme - by Vincent Morneau
 
 
 ## Tools
 
-- [APEX Nitro](https://github.com/OraOpenSource/apex-nitro) - by OraOpenSource, Vincent Morneau
-- [OXAR](https://github.com/OraOpenSource/OXAR) - by OraOpenSource
-- [Oracle Database & APEX Developer Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev) - by Daniel Hochleitner
-- [APEX Client Extension](https://github.com/FOEXgmbh/apex-client-extension) - by FOEX
-- [FOEX Developer Addon](https://www.tryfoexnow.com/en/foex/foex-developer-addon) - by FOEX
-- [Xplug for APEX](https://github.com/FilipVanVooren/Xplug-for-APEX-Page-Designer) - by Filip Van Vooren
+- [APEX Nitro](https://github.com/OraOpenSource/apex-nitro) - essential APEX companion - by OraOpenSource, Vincent Morneau
+- [OXAR](https://github.com/OraOpenSource/OXAR) - automatic installation scripts for Oracle XE & APEX - by OraOpenSource
+- [Oracle Database & APEX Developer Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev) - scripts for Docker image building - by Daniel Hochleitner
+- [APEX Client Extension](https://github.com/FOEXgmbh/apex-client-extension) - build APEX desktop apps using Electron - by FOEX
+- [FOEX Developer Addon](https://www.tryfoexnow.com/en/foex/foex-developer-addon) - browser extension to enhance APEX development env - by FOEX
+- [Xplug for APEX](https://github.com/FilipVanVooren/Xplug-for-APEX-Page-Designer) - browser extension to enhance APEX development env - by Filip Van Vooren
 - [APEX Test Automation Framework](https://www.apextestautomation.co.uk) - by Simon Hunt
-- [Logger](https://github.com/OraOpenSource/Logger) - by OraOpenSource
-- [OOS Utils](https://github.com/OraOpenSource/oos-utils) - by OraOpenSource
-- [ApexSec](https://apexsec.recx.co.uk) - by Recx
+- [Logger](https://github.com/OraOpenSource/Logger) - Logging utility for Oracle DB & APEX - by OraOpenSource
+- [OOS Utils](https://github.com/OraOpenSource/oos-utils) - Common PL/SQL utility scripts / API - by OraOpenSource
+- [ApexSec](https://apexsec.recx.co.uk) - automated security analysis product - by Recx
 
 
 ## Documentation
@@ -160,7 +160,7 @@ Made with Oracle APEX.
 
 ## Tips
 
-- [Cheatsheet Keybord Shortcuts](https://www.cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/) - by Scott Spendolini
+- [Cheatsheet Keyboard Shortcuts](https://www.cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/) - by Scott Spendolini
 - [Interactive Grid Cookbook](http://hardlikesoftware.com/weblog/2017/07/10/apex-interactive-grid-cookbook/) - by John Snyders
 - [Interactive Grid Cheatsheet](https://github.com/mgoricki/orclapex-ig-cheat-sheet) - by Marko Gorički
 
