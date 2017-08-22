@@ -4,6 +4,8 @@
 
 > Useful resources for [Oracle Application Express](https://apex.oracle.com)
 
+Downloads and additional information on the [OTN pages](http://otn.oracle.com/apex)
+
 
 ## Contents
 
@@ -93,6 +95,7 @@ Made with Oracle APEX.
 # Blogs
 
 - [`@orclapexblogs` on Twitter](https://twitter.com/orclapexblogs)
+- [ODTUG APEX Blogroll](http://www.odtug.com/apexblogroll) - by ODTUG
 - [A little bit of everything](http://rimblas.com/blog) - by Jorge Rimblas
 - [grassroots-oracle.com](http://www.grassroots-oracle.com) - by Scott Wesley
 - [HardLikeSoftware](http://hardlikesoftware.com/weblog) - by John Snyders
@@ -149,6 +152,7 @@ Made with Oracle APEX.
 - [`#orclapex` on Slack](https://orclapex.slack.com/)
 - [Oracle APEX Community Listing](https://apex.oracle.com/community)
 - [ODTUG APEX Community](http://www.odtug.com/apex)
+- [Oracle Forum](https://community.oracle.com/community/database/developer-tools/application_express)
 
 
 ## Tips
