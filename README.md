@@ -111,6 +111,7 @@ Made with Oracle APEX.
 - [get along with oracle and apex](http://www.oracle-and-apex.com) - by Peter Raganitsch
 - [Johns Blog](https://jes.blogs.shellprompt.net) - by John Scott
 - [Roels Blog](http://roelhartman.blogspot.com) - by Roel Hartman
+- [APEXPLAINED](https://apexplained.wordpress.com) - by Nick Buytaert
 - [talkapex.com - Oracle APEX Hints & Tips](http://www.talkapex.com) - by Martin D'Souza
 - [Daniel Hochleitner - Blog](https://blog.danielhochleitner.de) - by Daniel Hochleitner
 - [Jackie McIlroy - Oracle & APEX](https://jackiemcilroy.blogspot.com) - by Jackie McIlroy
@@ -147,16 +148,16 @@ Made with Oracle APEX.
 
 ## Community
 
-- [apex.world](https://apex.world)
-- [Built with APEX](https://www.builtwithapex.com)
-- [APEX Theme Styles](https://apex-theme-styles.com)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/oracle-apex)
-- [`#orclapex` on Twitter](https://twitter.com/hashtag/orclapex)
-- [`#orclapex` on Slack](https://orclapex.slack.com/)
-- [Oracle APEX Community Listing](https://apex.oracle.com/community)
-- [ODTUG APEX Community](http://www.odtug.com/apex)
-- [Oracle Forum](https://community.oracle.com/community/database/developer-tools/application_express)
-
+- [apex.world](https://apex.world) - Stay updated, all about Oracle APEX
+- [Built with APEX](https://www.builtwithapex.com) - Public sites & pages that are built with APEX
+- [APEX Theme Styles](https://apex-theme-styles.com) - APEX Theme Style sharing site
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/oracle-apex) - Stack Overflow APEX related questions
+- [`#orclapex` on Twitter](https://twitter.com/hashtag/orclapex) - Twitter Community
+- [`#orclapex` on Slack](https://orclapex.slack.com/) - Slack Channel
+- [Oracle APEX Community Listing](https://apex.oracle.com/community) - Official listing about APEX related things
+- [ODTUG APEX Community](http://www.odtug.com/apex) - APEX community site of ODTUG
+- [Oracle Forum](https://community.oracle.com/community/database/developer-tools/application_express) - Official Oracle Forum about APEX
+- [Oracle Dev Gym](https://devgym.oracle.com) - Quizzes, Classes and Tournaments about Oracle topics
 
 ## Tips
 
