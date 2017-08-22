@@ -163,6 +163,7 @@ Made with Oracle APEX.
 - [Cheatsheet Keyboard Shortcuts](https://www.cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/) - by Scott Spendolini
 - [Interactive Grid Cookbook](http://hardlikesoftware.com/weblog/2017/07/10/apex-interactive-grid-cookbook/) - by John Snyders
 - [Interactive Grid Cheatsheet](https://github.com/mgoricki/orclapex-ig-cheat-sheet) - by Marko Gorički
+- [SVG in APEX: Best Practices](https://github.com/tobiasarnhold/svg-in-apex) - by Tobias Arnhold, Sebastian Reinig
 
 Contribute some ;)
 
