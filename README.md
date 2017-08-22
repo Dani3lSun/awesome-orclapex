@@ -43,6 +43,7 @@ Made with Oracle APEX.
 
 - [apex.world Plugins](https://apex.world/ords/f?p=100:700:::::) - Open Source APEX plugin directory
 - [APEX-PLUGIN.COM](http://www.apex-plugin.com) - APEX plugin directory
+- [APEX Development Team Plug-Ins](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-plug-ins-182042.html)
 
 
 ## Themes
