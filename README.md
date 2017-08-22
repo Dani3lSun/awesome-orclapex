@@ -63,6 +63,7 @@ Made with Oracle APEX.
 - [APEX Test Automation Framework](https://www.apextestautomation.co.uk) - by Simon Hunt
 - [Logger](https://github.com/OraOpenSource/Logger) - by OraOpenSource
 - [OOS Utils](https://github.com/OraOpenSource/oos-utils) - by OraOpenSource
+- [ApexSec](https://apexsec.recx.co.uk) - by Recx
 
 
 ## Documentation
