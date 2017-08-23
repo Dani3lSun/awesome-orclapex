@@ -133,7 +133,7 @@ Made with Oracle APEX.
 - [Shakeeb on APEX](http://apex.shak.us) - by Shakeeb Rahman
 - [APEX-AT-WORK](http://www.apex-at-work.com) - by Tobias Arnhold
 - [Insum Oracle APEX Blog](https://www.insum.ca/blog) - by Insum Solutions
-- [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com.au/) - by Denes Kubicek
+- [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com) - by Denes Kubicek
 
 
 ## Videos
