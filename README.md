@@ -80,6 +80,7 @@ Made with Oracle APEX.
 ## Articles
 
 - [Oracle Learning Library](http://apex.oracle.com/pls/apex/f?p=44785:2:0:FORCE_QUERY::2:P2_GROUP_ID,P2_PRODUCT_ID,P2_TAGS:1000,2039) - OLL pages for Oracle APEX
+- [Oracle Application Express Curriculum](https://apex.oracle.com/education) - Official Curriculum for learning APEX
 
 
 ## Books
