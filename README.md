@@ -142,6 +142,7 @@ Made with Oracle APEX.
 - [Official Oracle APEX YouTube Channel](https://www.youtube.com/channel/UCEpIXFjcQIztReQNLymvYrQ)
 - [apex.world YouTube Channel](https://www.youtube.com/channel/UCY7t5jZ2cyZXIil1L8jfTwg/feed)
 - [ODTUG YouTube Channel](https://www.youtube.com/channel/UC_Aky4HG2cEy3njLWTHQ82A)
+- [APEX Summer School 2015 YouTube Channel (German)](https://www.youtube.com/channel/UC_x68EhK-AJMAQYbOeoINQw)
 
 
 ## Podcasts
