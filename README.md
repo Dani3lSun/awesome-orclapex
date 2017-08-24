@@ -54,6 +54,7 @@ Made with Oracle APEX.
 
 - [Universal Theme](https://apex.oracle.com/ut) - Official Theme shipped with APEX > 5.0 - by Oracle APEX Development Team
 - [Material APEX](http://materialapex.com) - Material Design Theme - by Vincent Morneau
+- [Font APEX](https://apex.oracle.com/fontapex) - Icon Pack shipped with APEX 5.1
 
 
 ## Tools
@@ -78,19 +79,22 @@ Made with Oracle APEX.
 
 ## Documentation
 
-- [Documentation APEX 5.1](https://docs.oracle.com/database/apex-5.1/index.htm) - Documentation Overview
-- [Documentation APEX 5.0](https://docs.oracle.com/cd/E59726_01/index.htm) - Documentation Overview
+- [Documentation APEX 5.1](https://apex.oracle.com/doc51) - Documentation Overview
+- [Documentation APEX 5.0](https://apex.oracle.com/doc50) - Documentation Overview
+- [Documentation APEX 4.2](https://apex.oracle.com/doc42) - Documentation Overview
 - [API Reference APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEAPI/toc.htm) - PL/SQL & JavaScript API Documentation
 - [API Reference APEX 5.0](https://docs.oracle.com/cd/E59726_01/doc.50/e39149/toc.htm) - PL/SQL & JavaScript API Documentation
 - [Installation Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/HTMIG/toc.htm) - Installation Documentation
 - [Administration Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEADM/toc.htm) - Administration Documentation
-- [Shortcut Link Register](http://www.oracleapex.com) - Bunch of shortcut links to useful APEX Resources
+- [Official Shortcut Links](https://apex.oracle.com/shortcuts) - Bunch of shortcut links to useful APEX Resources (Official)
+- [Shortcut Links](http://www.oracleapex.com) - Bunch of shortcut links to useful APEX Resources
 
 
 ## Articles
 
 - [Oracle Learning Library](http://apex.oracle.com/pls/apex/f?p=44785:2:0:FORCE_QUERY::2:P2_GROUP_ID,P2_PRODUCT_ID,P2_TAGS:1000,2039) - OLL pages for Oracle APEX
 - [Oracle Application Express Curriculum](https://apex.oracle.com/education) - Official Curriculum for learning APEX
+- [Hands On Labs](https://apex.oracle.com/hols) - Official Hands On Labs Page
 
 
 ## Books
