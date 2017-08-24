@@ -172,6 +172,7 @@ Made with Oracle APEX.
 - [Oracle Forum](https://community.oracle.com/community/database/developer-tools/application_express) - Official Oracle Forum about APEX
 - [Oracle Dev Gym](https://devgym.oracle.com) - Quizzes, Classes and Tournaments about Oracle topics
 - [Official LinkedIn APEX Group](https://www.linkedin.com/groups/8263065) - Oracle Application Express (APEX) - The Official Group
+- [Official Facebook Page](https://www.facebook.com/orclapex/) - Official Oracle Application Express FB Page
 
 ## Tips
 
