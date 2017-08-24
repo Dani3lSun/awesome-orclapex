@@ -150,6 +150,7 @@ Made with Oracle APEX.
 - [APEX-AT-WORK](http://www.apex-at-work.com) - by Tobias Arnhold
 - [Insum Oracle APEX Blog](https://www.insum.ca/blog) - by Insum Solutions
 - [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com) - by Denes Kubicek
+- [TH TECHNOLOGY](https://thtechnology.com) - by Karen Cannell
 
 
 ## Videos
