@@ -1,4 +1,5 @@
-# Awesome Oracle APEX (Application Express) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Oracle APEX (Application Express) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
 
 [<img src="https://rawgit.com/Dani3lSun/awesome-orclapex/master/apex-logo.svg" align="right" width="100">](https://apex.oracle.com)
 
