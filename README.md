@@ -67,7 +67,7 @@ Made with Oracle APEX.
 - [ApexSec](https://apexsec.recx.co.uk) - automated security analysis product - by Recx
 
 
-# Boilerplates
+## Boilerplates
 
 - [APEX Theme Boilerplate](https://github.com/vincentmorneau/apex-theme-boilerplate) - basic stuff that any APEX theme needs - by Vincent Morneau
 - [APEX Plugin Templates](https://github.com/Dani3lSun/apex-plugin-templates) - Templates for common APEX Plugins - by Daniel Hochleitner
@@ -103,7 +103,7 @@ Made with Oracle APEX.
 - [Oracle Application Express for Mobile Web Applications](http://a.co/5XLVk2p) - by Roel Hartman, Christian Rokitta, David Peake
 
 
-# Blogs
+## Blogs
 
 - [`@orclapexblogs` on Twitter](https://twitter.com/orclapexblogs)
 - [ODTUG APEX Blogroll](http://www.odtug.com/apexblogroll) - by ODTUG
