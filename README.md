@@ -174,6 +174,7 @@ Made with Oracle APEX.
 - [Official LinkedIn APEX Group](https://www.linkedin.com/groups/8263065) - Oracle Application Express (APEX) - The Official Group
 - [Official Facebook Page](https://www.facebook.com/orclapex/) - Official Oracle Application Express FB Page
 
+
 ## Tips
 
 - [Cheatsheet Keyboard Shortcuts](https://www.cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/) - by Scott Spendolini
