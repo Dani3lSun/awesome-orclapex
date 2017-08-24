@@ -13,6 +13,7 @@ Downloads and additional information on the [OTN pages](http://otn.oracle.com/ap
 - [Plugins](#plugins)
 - [Themes](#themes)
 - [Tools](#tools)
+- [Boilerplates](#boilerplates)
 - [Documentation](#documentation)
 - [Articles](#articles)
 - [Books](#books)
@@ -64,6 +65,12 @@ Made with Oracle APEX.
 - [Logger](https://github.com/OraOpenSource/Logger) - Logging utility for Oracle DB & APEX - by OraOpenSource
 - [OOS Utils](https://github.com/OraOpenSource/oos-utils) - Common PL/SQL utility scripts / API - by OraOpenSource
 - [ApexSec](https://apexsec.recx.co.uk) - automated security analysis product - by Recx
+
+
+# Boilerplates
+
+- [APEX Theme Boilerplate](https://github.com/vincentmorneau/apex-theme-boilerplate) - basic stuff that any APEX theme needs - by Vincent Morneau
+- [APEX Plugin Templates](https://github.com/Dani3lSun/apex-plugin-templates) - Templates for common APEX Plugins - by Daniel Hochleitner
 
 
 ## Documentation
