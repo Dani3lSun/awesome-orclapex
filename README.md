@@ -148,9 +148,10 @@ Made with Oracle APEX.
 ## Videos
 
 - [Official Oracle APEX YouTube Channel](https://www.youtube.com/channel/UCEpIXFjcQIztReQNLymvYrQ)
-- [apex.world YouTube Channel](https://www.youtube.com/channel/UCY7t5jZ2cyZXIil1L8jfTwg/feed)
+- [apex.world YouTube Channel](https://www.youtube.com/channel/UCY7t5jZ2cyZXIil1L8jfTwg)
 - [ODTUG YouTube Channel](https://www.youtube.com/channel/UC_Aky4HG2cEy3njLWTHQ82A)
 - [APEX Summer School 2015 YouTube Channel (German)](https://www.youtube.com/channel/UC_x68EhK-AJMAQYbOeoINQw)
+- [SkillBuilders APEX YouTube Videos](https://www.youtube.com/user/skillbuildersDotcom/search?query=apex)
 
 
 ## Podcasts
@@ -165,7 +166,7 @@ Made with Oracle APEX.
 - [APEX Theme Styles](https://apex-theme-styles.com) - APEX Theme Style sharing site
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/oracle-apex) - Stack Overflow APEX related questions
 - [`#orclapex` on Twitter](https://twitter.com/hashtag/orclapex) - Twitter Community
-- [`#orclapex` on Slack](https://orclapex.slack.com/) - Slack Channel
+- [`#orclapex` on Slack](https://orclapex.slack.com) - Slack Channel
 - [Oracle APEX Community Listing](https://apex.oracle.com/community) - Official listing about APEX related things
 - [ODTUG APEX Community](http://www.odtug.com/apex) - APEX community site of ODTUG
 - [Oracle Forum](https://community.oracle.com/community/database/developer-tools/application_express) - Official Oracle Forum about APEX
