@@ -74,7 +74,7 @@ Made with Oracle APEX.
 - [API Reference APEX 5.0](https://docs.oracle.com/cd/E59726_01/doc.50/e39149/toc.htm) - PL/SQL & JavaScript API Documentation
 - [Installation Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/HTMIG/toc.htm) - Installation Documentation
 - [Administration Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEADM/toc.htm) - Administration Documentation
-- [Shortcut Link Register](http://www.oracleapex.com/) - Bunch of shortcut links to useful APEX Resources
+- [Shortcut Link Register](http://www.oracleapex.com) - Bunch of shortcut links to useful APEX Resources
 
 
 ## Articles
@@ -161,7 +161,7 @@ Made with Oracle APEX.
 - [ODTUG APEX Community](http://www.odtug.com/apex) - APEX community site of ODTUG
 - [Oracle Forum](https://community.oracle.com/community/database/developer-tools/application_express) - Official Oracle Forum about APEX
 - [Oracle Dev Gym](https://devgym.oracle.com) - Quizzes, Classes and Tournaments about Oracle topics
-- [The Official linkedIn APEX Group](https://www.linkedin.com/groups/8263065) - Oracle Application Express (APEX) - The Official Group
+- [Official LinkedIn APEX Group](https://www.linkedin.com/groups/8263065) - Oracle Application Express (APEX) - The Official Group
 
 ## Tips
 
