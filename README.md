@@ -170,7 +170,7 @@ Made with Oracle APEX.
 ## Community
 
 - [apex.world](https://apex.world) - Stay updated, all about Oracle APEX
-- [Built with APEX](https://www.builtwithapex.com) - Public sites & pages that are built with APEX
+- [Built with APEX](https://www.builtwithapex.com) - Community listing of public sites & pages that are built with APEX
 - [APEX Theme Styles](https://apex-theme-styles.com) - APEX Theme Style sharing site
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/oracle-apex) - Stack Overflow APEX related questions
 - [`#orclapex` on Twitter](https://twitter.com/hashtag/orclapex) - Twitter Community
