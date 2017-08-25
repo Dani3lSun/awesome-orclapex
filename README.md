@@ -88,6 +88,7 @@ Made with Oracle APEX.
 - [Administration Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEADM/toc.htm) - Administration Documentation
 - [Official Shortcut Links](https://apex.oracle.com/shortcuts) - Bunch of shortcut links to useful APEX Resources (Official)
 - [Shortcut Links](http://www.oracleapex.com) - Bunch of shortcut links to useful APEX Resources
+- [jQuery Cheatsheet](https://oscarotero.com/jquery) - jQuery Quick API Reference
 
 
 ## Articles
