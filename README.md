@@ -152,6 +152,7 @@ Made with Oracle APEX.
 - [Insum Oracle APEX Blog](https://www.insum.ca/blog) - by Insum Solutions
 - [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com) - by Denes Kubicek
 - [TH TECHNOLOGY](https://thtechnology.com) - by Karen Cannell
+- [Kris' blog](http://krisrice.blogspot.com) - by Kris Rice
 
 
 ## Videos
@@ -183,6 +184,7 @@ Made with Oracle APEX.
 - [Oracle Live SQL](https://livesql.oracle.com) - Learn and share SQL, like JSFiddle for SQL, PL/SQL
 - [Official LinkedIn APEX Group](https://www.linkedin.com/groups/8263065) - Oracle Application Express (APEX) - The Official Group
 - [Official Facebook Page](https://www.facebook.com/orclapex/) - Official Oracle Application Express FB Page
+- [Oracle AskTOM](https://asktom.oracle.com) - Get answers for your Oracle questions from experts
 
 
 ## Tips
