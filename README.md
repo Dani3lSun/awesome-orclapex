@@ -153,6 +153,7 @@ Made with Oracle APEX.
 - [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com) - by Denes Kubicek
 - [TH TECHNOLOGY](https://thtechnology.com) - by Karen Cannell
 - [Kris' blog](http://krisrice.blogspot.com) - by Kris Rice
+- [Oracle & Apex Geekery](http://rokitta.blogspot.com) - by Christian Rokitta
 
 
 ## Videos
