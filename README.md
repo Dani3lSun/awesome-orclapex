@@ -82,10 +82,10 @@ Made with Oracle APEX.
 - [Documentation APEX 5.1](https://apex.oracle.com/doc51) - Documentation Overview
 - [Documentation APEX 5.0](https://apex.oracle.com/doc50) - Documentation Overview
 - [Documentation APEX 4.2](https://apex.oracle.com/doc42) - Documentation Overview
-- [API Reference APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEAPI/toc.htm) - PL/SQL & JavaScript API Documentation
+- [API Reference APEX 5.1](https://docs.oracle.com/database/apex-5.1/doc.51/e64915/toc.htm) - PL/SQL & JavaScript API Documentation
 - [API Reference APEX 5.0](https://docs.oracle.com/cd/E59726_01/doc.50/e39149/toc.htm) - PL/SQL & JavaScript API Documentation
-- [Installation Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/HTMIG/toc.htm) - Installation Documentation
-- [Administration Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/AEADM/toc.htm) - Administration Documentation
+- [Installation Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/install.51/e64907/toc.htm) - Installation Documentation
+- [Administration Guide APEX 5.1](https://docs.oracle.com/database/apex-5.1/doc.51/e64918/toc.htm) - Administration Documentation
 - [Official Shortcut Links](https://apex.oracle.com/shortcuts) - Bunch of shortcut links to useful APEX Resources (Official)
 - [Shortcut Links](http://www.oracleapex.com) - Bunch of shortcut links to useful APEX Resources
 - [jQuery Cheatsheet](https://oscarotero.com/jquery) - jQuery Quick API Reference
