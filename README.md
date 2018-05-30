@@ -200,7 +200,7 @@ Made with Oracle APEX.
 - [Interactive Grid Cookbook](http://hardlikesoftware.com/weblog/2017/07/10/apex-interactive-grid-cookbook/) - by John Snyders
 - [Interactive Grid Cheatsheet](https://github.com/mgoricki/orclapex-ig-cheat-sheet) - by Marko Gorički
 - [SVG in APEX: Best Practices](https://github.com/tobiasarnhold/svg-in-apex) - by Tobias Arnhold, Sebastian Reinig
-- [Single Sign-On for Oracle Application Express (APEX) applications](https://www.edocr.com/v/lv1rvxvx/nielsdebruijn/Single-Sign-On-for-Oracle-Application-Express-APEX)
+- [Single Sign-On for Oracle Application Express (APEX) applications](https://www.edocr.com/v/lv1rvxvx/nielsdebruijn/Single-Sign-On-for-Oracle-Application-Express-APEX) - by Niels de Bruijn
 
 Contribute some ;)
 
