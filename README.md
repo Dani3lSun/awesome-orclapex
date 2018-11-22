@@ -160,6 +160,7 @@ Made with Oracle APEX.
 - [Kris' blog](http://krisrice.blogspot.com) - by Kris Rice
 - [Oracle & Apex Geekery](http://rokitta.blogspot.com) - by Christian Rokitta
 - [2122](https://2122.io) - by Hayden Hudson
+- [SELECT BLOG FROM DUAL](https://dsavenko.me) - by Denis Savenko
 
 
 ## Videos
