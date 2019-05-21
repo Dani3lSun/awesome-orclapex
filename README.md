@@ -7,7 +7,7 @@
 
 > Useful resources for [Oracle Application Express](https://apex.oracle.com)
 
-Downloads and additional information on the [OTN pages](http://otn.oracle.com/apex)
+Downloads and additional information on the [Oracle pages](https://www.oracle.com/database/technologies/appdev/apex.html)
 
 
 ## Contents
