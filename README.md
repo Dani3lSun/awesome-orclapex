@@ -173,6 +173,7 @@ Made with Oracle APEX.
 ## Podcasts
 
 - [the oracle apex talkshow](http://apex.press/talkshow) - by Jürgen Schuster, Martin D'Souza
+- [APEX Now](https://podcasts.apple.com/de/podcast/apex-now/id1460007182?l=en) - by Bruce Clark
 
 
 ## Community
