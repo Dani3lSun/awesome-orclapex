@@ -159,6 +159,7 @@ Made with Oracle APEX.
 - [Oracle & Apex Geekery](http://rokitta.blogspot.com) - by Christian Rokitta
 - [2122](https://2122.io) - by Hayden Hudson
 - [SELECT BLOG FROM DUAL](https://dsavenko.me) - by Denis Savenko
+- [Laureston Solutions Blog](https://www.laureston.ca/blog/) - by Michelle Skamene
 
 
 ## Videos
