@@ -21,6 +21,7 @@ Downloads and additional information on the [Oracle pages](https://www.oracle.co
 - [Articles](#articles)
 - [Books](#books)
 - [Blogs](#blogs)
+- [Twitter](#twitter)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Community](#community)
@@ -160,6 +161,53 @@ Made with Oracle APEX.
 - [2122](https://2122.io) - by Hayden Hudson
 - [SELECT BLOG FROM DUAL](https://dsavenko.me) - by Denis Savenko
 - [Laureston Solutions Blog](https://www.laureston.ca/blog/) - by Michelle Skamene
+
+
+## Twitter
+
+These feeds regularly tweet about APEX. Please use hashtag #orclapex :)
+
+- [@OracleAPEX](https://twitter.com/OracleAPEX))
+- [@orclapexworld](https://twitter.com/orclapexworld) - apex.world
+- [@orclapexblogs](https://twitter.com/orclapexblogs) - ODTUG APEX
+
+- [@anthonyrayner](https://twitter.com/anthonyrayner) - Anthony Rayner (Oracle)
+- [@bwiczling](https://twitter.com/bwiczling) - Bo English-Wiczling (Oracle)
+- [@cczarski](https://twitter.com/cczarski) - Carsten Czarski (Oracle)
+- [@chaitanya_in](https://twitter.com/chaitanya_in) - Chaitanya (Oracle)
+- [@chrisneumueller](https://twitter.com/chrisneumueller) - Chris Neumueller (Oracle)
+- [@ChristinaCho22](https://twitter.com/ChristinaCho22) - Christina Cho (Oracle)
+- [@DougAGault](https://twitter.com/DougAGault) - Doug A Gault (Oracle)
+- [@J_Snyders](https://twitter.com/J_Snyders) - John Snyders (Oracle)
+- [@JasonAStraub](https://twitter.com/JasonAStraub) - Jason Straub (Oracle)
+- [@joelkallman](https://twitter.com/joelkallman) - Joel R. Kallman (Oracle)
+- [@mennooo](https://twitter.com/mennooo) - Menno Hoogendijk (Oracle)
+- [@msewtz](https://twitter.com/msewtz) - Marc Sewtz (Oracle)
+- [@orcl_dpeake](https://twitter.com/orcl_dpeake) - David Peake (Oracle)
+- [@patrickwolf](https://twitter.com/patrickwolf) - Patrick Wolf (Oracle)
+- [@shakeeb](https://twitter.com/shakeeb) - Shakeeb Rahman (Oracle)
+- [@signal006](https://twitter.com/signal006) - Mónica (Oracle)
+- [@vuvarovs](https://twitter.com/vuvarovs) - Vladislav Uvarov (Oracle)
+
+- [@alexnuijten](https://twitter.com/alexnuijten) - Alex Nuijten
+- [@Clari707](https://twitter.com/Clari707) - Clarisa Maman Orfali Kolodoczka
+- [@Dani3lSun](https://twitter.com/Dani3lSun) - Daniel Hochleitner
+- [@daust_de](https://twitter.com/daust_de) - Dietmar Aust
+- [@dgielis](https://twitter.com/dgielis) - Dimitri Gielis
+- [@dmcghan](https://twitter.com/dmcghan) - Dan McGhan
+- [@fuzziebrain](https://twitter.com/fuzziebrain) - Adrian Png
+- [@gemmawood](https://twitter.com/gemmawood) - Gemma Wood
+- [@jeffreykemp](https://twitter.com/jeffreykemp) - Jeffrey Kemp
+- [@JuergenSchuster](https://twitter.com/JuergenSchuster) - Juergen Schuster
+- [@kylehu](https://twitter.com/kylehu) - Kyle Hu
+- [@lbrizzi](https://twitter.com/lbrizzi) - Learco Brizzi
+- [@McilroyJackie](https://twitter.com/McilroyJackie) - Jackie McIlroy
+- [@rimblas](https://twitter.com/rimblas) - Jorge Rimblas
+- [@RoelH](https://twitter.com/RoelH) - Roel Hartman
+- [@sspendol](https://twitter.com/sspendol) - Scott Spendolini
+- [@swesley_perth](https://twitter.com/swesley_perth) - Scott Wesley
+- [@Timan25](https://twitter.com/Timan25) - Tim
+- [@vincentmorneau](https://twitter.com/vincentmorneau) - Vincent Morneau
 
 
 ## Videos
