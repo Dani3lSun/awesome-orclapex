@@ -66,6 +66,7 @@ Made with Oracle APEX.
 - [APEX Client Extension](https://github.com/FOEXgmbh/apex-client-extension) - build APEX desktop apps using Electron - by FOEX
 - [FOEX Developer Addon](https://www.tryfoexnow.com/en/foex/foex-developer-addon) - browser extension to enhance APEX development env - by FOEX
 - [Xplug for APEX](https://github.com/FilipVanVooren/Xplug-for-APEX-Page-Designer) - browser extension to enhance APEX development env - by Filip Van Vooren
+- [Insum APEX Pro](https://github.com/insum-labs/insum-apex-pro) - browser extension to enhance APEX development env - by Insum Solutions, Benjamin Shumway
 - [APEX Test Automation Framework](https://www.apextestautomation.co.uk) - by Simon Hunt
 - [Logger](https://github.com/OraOpenSource/Logger) - Logging utility for Oracle DB & APEX - by OraOpenSource
 - [OOS Utils](https://github.com/OraOpenSource/oos-utils) - Common PL/SQL utility scripts / API - by OraOpenSource
@@ -161,7 +162,7 @@ Made with Oracle APEX.
 - [2122](https://2122.io) - by Hayden Hudson
 - [SELECT BLOG FROM DUAL](https://dsavenko.me) - by Denis Savenko
 - [Laureston Solutions Blog](https://www.laureston.ca/blog/) - by Michelle Skamene
-- [APEX stuff in one place](https://lschilde.blogspot.com/) -  by Lino Schildenfeld [@LinoSchilde](https://twitter.com/LinoSchilde)
+- [APEX stuff in one place](https://lschilde.blogspot.com/) -  by Lino Schildenfeld
 
 
 ## Twitter
