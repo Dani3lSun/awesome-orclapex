@@ -161,6 +161,7 @@ Made with Oracle APEX.
 - [2122](https://2122.io) - by Hayden Hudson
 - [SELECT BLOG FROM DUAL](https://dsavenko.me) - by Denis Savenko
 - [Laureston Solutions Blog](https://www.laureston.ca/blog/) - by Michelle Skamene
+- [APEX stuff in one place](https://lschilde.blogspot.com/) -  by Lino Schildenfeld [@LinoSchilde](https://twitter.com/LinoSchilde)
 
 
 ## Twitter
@@ -201,6 +202,7 @@ These feeds regularly tweet about APEX. Please use hashtag #orclapex :)
 - [@JuergenSchuster](https://twitter.com/JuergenSchuster) - Juergen Schuster
 - [@kylehu](https://twitter.com/kylehu) - Kyle Hu
 - [@lbrizzi](https://twitter.com/lbrizzi) - Learco Brizzi
+- [@LinoSchilde](https://twitter.com/LinoSchilde) - Lino Schildenfeld
 - [@McilroyJackie](https://twitter.com/McilroyJackie) - Jackie McIlroy
 - [@rimblas](https://twitter.com/rimblas) - Jorge Rimblas
 - [@RoelH](https://twitter.com/RoelH) - Roel Hartman
