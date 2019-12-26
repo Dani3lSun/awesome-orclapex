@@ -165,6 +165,7 @@ Made with Oracle APEX.
 - [SELECT BLOG FROM DUAL](https://dsavenko.me) - by Denis Savenko
 - [Laureston Solutions Blog](https://www.laureston.ca/blog/) - by Michelle Skamene
 - [APEX stuff in one place](https://lschilde.blogspot.com/) -  by Lino Schildenfeld
+- [Vinish Kapoor's Blog](https://www.foxinfotech.in/) - by Vinish Kapoor
 
 
 ## Twitter
