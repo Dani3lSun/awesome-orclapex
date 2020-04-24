@@ -82,6 +82,7 @@ Made with Oracle APEX.
 
 ## Documentation
 
+- [Documentation APEX 20.1](https://apex.oracle.com/doc201) - Documentation Overview
 - [Documentation APEX 19.2](https://apex.oracle.com/doc192) - Documentation Overview
 - [Documentation APEX 19.1](https://apex.oracle.com/doc191) - Documentation Overview
 - [Documentation APEX 18.2](https://apex.oracle.com/doc182) - Documentation Overview
@@ -89,10 +90,10 @@ Made with Oracle APEX.
 - [Documentation APEX 5.1](https://apex.oracle.com/doc51) - Documentation Overview
 - [Documentation APEX 5.0](https://apex.oracle.com/doc50) - Documentation Overview
 - [Documentation APEX 4.2](https://apex.oracle.com/doc42) - Documentation Overview
-- [API Reference APEX 19.2](https://docs.oracle.com/en/database/oracle/application-express/19.2/aeapi/index.html) - PL/SQL & JavaScript API Documentation
-- [API Reference APEX 19.2 - JavaScript](https://docs.oracle.com/en/database/oracle/application-express/19.2/aexjs/index.html) - Pure JavaScript API Documentation
-- [Installation Guide APEX 19.2](https://docs.oracle.com/en/database/oracle/application-express/19.2/htmig/index.html) - Installation Documentation
-- [Administration Guide APEX 19.2](https://docs.oracle.com/en/database/oracle/application-express/19.2/aeadm/index.html) - Administration Documentation
+- [API Reference APEX 20.1](https://docs.oracle.com/en/database/oracle/application-express/20.1/aeapi/index.html) - PL/SQL & JavaScript API Documentation
+- [API Reference APEX 20.1 - JavaScript](https://docs.oracle.com/en/database/oracle/application-express/20.1/aexjs/index.html) - Pure JavaScript API Documentation
+- [Installation Guide APEX 20.1](https://docs.oracle.com/en/database/oracle/application-express/20.1/htmig/index.html) - Installation Documentation
+- [Administration Guide APEX 20.1](https://docs.oracle.com/en/database/oracle/application-express/20.1/aeadm/index.html) - Administration Documentation
 - [Official Shortcut Links](https://apex.oracle.com/shortcuts) - Bunch of shortcut links to useful APEX Resources (Official)
 - [Shortcut Links](http://www.oracleapex.com) - Bunch of shortcut links to useful APEX Resources
 - [jQuery Cheatsheet](https://oscarotero.com/jquery) - jQuery Quick API Reference
