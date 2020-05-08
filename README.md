@@ -65,13 +65,14 @@ Made with Oracle APEX.
 - [Oracle Database & APEX Developer Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev) - scripts for Docker image building - by Daniel Hochleitner
 - [Build an APEX Stack with Docker](https://github.com/fuzziebrain/docker-apex-stack) - scripts for Docker image building - by Adrian Png
 - [APEX Client Extension](https://github.com/FOEXgmbh/apex-client-extension) - build APEX desktop apps using Electron - by FOEX
-- [FOEX Developer Addon](https://www.tryfoexnow.com/en/foex/foex-developer-addon) - browser extension to enhance APEX development env - by FOEX
+- [FOEX Developer Addon](https://www.foex.at/foex-developer-addon/) - browser extension to enhance APEX development env - by FOEX
 - [Xplug for APEX](https://github.com/FilipVanVooren/Xplug-for-APEX-Page-Designer) - browser extension to enhance APEX development env - by Filip Van Vooren
 - [Insum APEX Pro](https://github.com/insum-labs/insum-apex-pro) - browser extension to enhance APEX development env - by Insum Solutions, Benjamin Shumway
 - [APEX Test Automation Framework](https://www.apextestautomation.co.uk) - by Simon Hunt
 - [Logger](https://github.com/OraOpenSource/Logger) - Logging utility for Oracle DB & APEX - by OraOpenSource
 - [OOS Utils](https://github.com/OraOpenSource/oos-utils) - Common PL/SQL utility scripts / API - by OraOpenSource
 - [ApexSec](https://apexsec.recx.co.uk) - automated security analysis product - by Recx
+- [APEX Builder Extension](https://www.foex.at/apex-builder-extension/) - browser extension to enhance APEX development env - by FOS
 
 
 ## Boilerplates
