@@ -83,7 +83,7 @@ Made with Oracle APEX.
 
 ## Documentation
 
-- [Documentation APEX 20.1](https://apex.oracle.com/doc202) - Documentation Overview
+- [Documentation APEX 20.2](https://apex.oracle.com/doc202) - Documentation Overview
 - [Documentation APEX 20.1](https://apex.oracle.com/doc201) - Documentation Overview
 - [Documentation APEX 19.2](https://apex.oracle.com/doc192) - Documentation Overview
 - [Documentation APEX 19.1](https://apex.oracle.com/doc191) - Documentation Overview
