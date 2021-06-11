@@ -49,6 +49,7 @@ Made with Oracle APEX.
 - [apex.world Plugins](https://apex.world/ords/f?p=100:700:::::) - Open Source APEX plugin directory
 - [APEX-PLUGIN.COM](http://www.apex-plugin.com) - APEX plugin directory
 - [APEX Development Team Plug-Ins](http://www.oracle.com/technetwork/developer-tools/apex/learnmore/apex-plug-ins-182042.html) - Official Oracle APEX plugins
+- [Ontoor Plugins] (https://plugins.ontoorsolutions.com) - Ontoor Plugins
 
 
 ## Themes
@@ -56,7 +57,6 @@ Made with Oracle APEX.
 - [Universal Theme](https://apex.oracle.com/ut) - Official Theme shipped with APEX > 5.0 - by Oracle APEX Development Team
 - [Material APEX](http://materialapex.com) - Material Design Theme - by Vincent Morneau
 - [Font APEX](https://apex.oracle.com/fontapex) - Icon Pack shipped with APEX 5.1
-
 
 ## Tools
 
@@ -73,6 +73,7 @@ Made with Oracle APEX.
 - [OOS Utils](https://github.com/OraOpenSource/oos-utils) - Common PL/SQL utility scripts / API - by OraOpenSource
 - [ApexSec](https://apexsec.recx.co.uk) - automated security analysis product - by Recx
 - [APEX Builder Extension](https://www.foex.at/apex-builder-extension/) - browser extension to enhance APEX development env - by FOS
+- [APEX as a PWA](https://github.com/vincentmorneau/apex-pwa) - A complete guide for turning an APEX application into a Progressive Web App.
 
 
 ## Boilerplates
@@ -82,7 +83,7 @@ Made with Oracle APEX.
 
 
 ## Documentation
-
+- [Documentation APEX 21.1](https://apex.oracle.com/doc211) - Documentation Overview
 - [Documentation APEX 20.1](https://apex.oracle.com/doc202) - Documentation Overview
 - [Documentation APEX 20.1](https://apex.oracle.com/doc201) - Documentation Overview
 - [Documentation APEX 19.2](https://apex.oracle.com/doc192) - Documentation Overview
@@ -169,6 +170,7 @@ Made with Oracle APEX.
 - [Laureston Solutions Blog](https://www.laureston.ca/blog/) - by Michelle Skamene
 - [APEX stuff in one place](https://lschilde.blogspot.com/) -  by Lino Schildenfeld
 - [Vinish Kapoor's Blog](https://www.foxinfotech.in/) - by Vinish Kapoor
+- [Ontoor Solutions Blogs](https://blogs.ontoorsolutions.com) - by Ontoor Solutions team
 
 
 ## Twitter
@@ -217,6 +219,7 @@ These feeds regularly tweet about APEX. Please use hashtag #orclapex :)
 - [@swesley_perth](https://twitter.com/swesley_perth) - Scott Wesley
 - [@Timan25](https://twitter.com/Timan25) - Tim
 - [@vincentmorneau](https://twitter.com/vincentmorneau) - Vincent Morneau
+- [@ashishtheapexian](https://twitter.com/ashishtheapexian) - Ashish Sahay
 
 
 ## Videos
@@ -227,7 +230,7 @@ These feeds regularly tweet about APEX. Please use hashtag #orclapex :)
 - [ODTUG YouTube Channel](https://www.youtube.com/channel/UC_Aky4HG2cEy3njLWTHQ82A)
 - [APEX Summer School 2015 YouTube Channel (German)](https://www.youtube.com/channel/UC_x68EhK-AJMAQYbOeoINQw)
 - [SkillBuilders APEX YouTube Videos](https://www.youtube.com/user/skillbuildersDotcom/search?query=apex)
-
+- [Insum YouTube Channel](https://www.youtube.com/channel/UCE1YgOp3qANaH-k_Cl34iNw)
 
 ## Podcasts
 
